@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: 
   * Master's Degree in Information Technology
-  * Task Timer: A multitask timer leveraging React and Electron
+  * [Task-Timer](https://github.com/AarynSmith/task-timer): A multitask timer leveraging React and Electron
 
 - 📫 How to reach me: 
   * [✉️Email](mailto:aarynsmith@gmail.com)
